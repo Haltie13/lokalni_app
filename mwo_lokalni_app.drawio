@@ -19,10 +19,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-1WmBcpgsWetizu-c4b6-1" value="Zarządzanie użytkownikami" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=320;height=30;" vertex="1" parent="1">
-          <mxGeometry x="210" y="60" width="410" height="690" as="geometry" />
+          <mxGeometry x="210" y="60" width="410" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1WmBcpgsWetizu-c4b6-2" target="-1WmBcpgsWetizu-c4b6-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1WmBcpgsWetizu-c4b6-2" target="-1WmBcpgsWetizu-c4b6-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-1WmBcpgsWetizu-c4b6-2" value="&lt;div&gt;Instytucja publiczna&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="650" y="190" width="70" height="120" as="geometry" />
+          <mxGeometry x="640" y="250" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-1WmBcpgsWetizu-c4b6-3" value="Rejestracja nowego użytkownika" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="100" width="150" height="40" as="geometry" />
@@ -31,10 +37,40 @@
           <mxGeometry x="230" y="150" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-1WmBcpgsWetizu-c4b6-11" value="Manualna weryfikacja konta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="150" width="150" height="40" as="geometry" />
+          <mxGeometry x="430" y="250" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-1WmBcpgsWetizu-c4b6-14" target="-1WmBcpgsWetizu-c4b6-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1WmBcpgsWetizu-c4b6-14" target="-1WmBcpgsWetizu-c4b6-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1WmBcpgsWetizu-c4b6-14" target="-1WmBcpgsWetizu-c4b6-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1WmBcpgsWetizu-c4b6-14" target="-1WmBcpgsWetizu-c4b6-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1WmBcpgsWetizu-c4b6-14" target="-1WmBcpgsWetizu-c4b6-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1WmBcpgsWetizu-c4b6-14" target="-1WmBcpgsWetizu-c4b6-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-1WmBcpgsWetizu-c4b6-14" target="-1WmBcpgsWetizu-c4b6-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-1WmBcpgsWetizu-c4b6-14" target="-1WmBcpgsWetizu-c4b6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1WmBcpgsWetizu-c4b6-14" target="-1WmBcpgsWetizu-c4b6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-1WmBcpgsWetizu-c4b6-14" target="-1WmBcpgsWetizu-c4b6-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-1WmBcpgsWetizu-c4b6-14" value="&lt;div&gt;Klient&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="130" width="70" height="120" as="geometry" />
+          <mxGeometry x="120" y="240" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-1WmBcpgsWetizu-c4b6-15" value="Edycja profilu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="200" width="150" height="40" as="geometry" />
@@ -59,6 +95,9 @@
         </mxCell>
         <mxCell id="-1WmBcpgsWetizu-c4b6-23" value="Usuniecie konta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="550" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-1WmBcpgsWetizu-c4b6-24" value="Rejestracja instytucji w systemie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="350" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
