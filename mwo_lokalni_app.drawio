@@ -25,6 +25,15 @@
         <mxCell id="rVkgeNe9eemyirqyG1fS-10" value="Przeglądaj czat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="625" width="120" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="26oBZDTvgFsPIgkjkrH8-1" value="Wyślij wiadomość tekstową" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="26oBZDTvgFsPIgkjkrH8-2" value="Wyślij zdjęcie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="26oBZDTvgFsPIgkjkrH8-3" value="Wyślij wiadomość dźwiękową" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="300" width="135" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
