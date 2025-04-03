@@ -40,8 +40,8 @@
         <mxCell id="26oBZDTvgFsPIgkjkrH8-5" value="Dodaj reakcję do wiadomości" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="330" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="26oBZDTvgFsPIgkjkrH8-6" value="Rozpocznij rozmowę" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="296.25" y="410" width="110" height="60" as="geometry" />
+        <mxCell id="26oBZDTvgFsPIgkjkrH8-6" value="Rozpocznij połączenie głosowe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="296.25" y="410" width="143.75" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
