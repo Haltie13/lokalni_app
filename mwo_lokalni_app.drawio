@@ -14,54 +14,36 @@
           <mxGeometry x="170" y="375" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rVkgeNe9eemyirqyG1fS-6" value="Zablokuj użytkownika" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="680" width="130" height="50" as="geometry" />
+          <mxGeometry x="460" y="710" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rVkgeNe9eemyirqyG1fS-7" value="Dodaj użytkownika do czatu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="508.75" y="600" width="142.5" height="50" as="geometry" />
+          <mxGeometry x="520" y="640" width="142.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rVkgeNe9eemyirqyG1fS-8" value="Usuń użytkownika z czatu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="296.25" y="700" width="122.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rVkgeNe9eemyirqyG1fS-9" value="Udostępnij lokalizację" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="510" width="140" height="60" as="geometry" />
+          <mxGeometry x="526.25" y="550" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rVkgeNe9eemyirqyG1fS-10" value="Przeglądaj czat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="100" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="26oBZDTvgFsPIgkjkrH8-1" value="Wyślij wiadomość tekstową" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="26oBZDTvgFsPIgkjkrH8-1" value="Wyślij wiadomość (multimedialną)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="100" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="26oBZDTvgFsPIgkjkrH8-2" value="Wyślij zdjęcie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="180" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="26oBZDTvgFsPIgkjkrH8-3" value="Wyślij wiadomość dźwiękową" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="260" width="135" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="26oBZDTvgFsPIgkjkrH8-4" value="Utwórz czat grupowy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="325" width="110" height="50" as="geometry" />
+          <mxGeometry x="535" y="180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="26oBZDTvgFsPIgkjkrH8-5" value="Dodaj reakcję do wiadomości" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="460" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="26oBZDTvgFsPIgkjkrH8-6" value="Rozpocznij połączenie głosowe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="395" width="143.75" height="70" as="geometry" />
+          <mxGeometry x="507.5" y="350" width="143.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="26oBZDTvgFsPIgkjkrH8-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vSTN6Diw2wIvGlX7Q6Qh-2" target="rVkgeNe9eemyirqyG1fS-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="350" as="sourcePoint" />
             <mxPoint x="330" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="26oBZDTvgFsPIgkjkrH8-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vSTN6Diw2wIvGlX7Q6Qh-2" target="26oBZDTvgFsPIgkjkrH8-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="390" as="sourcePoint" />
-            <mxPoint x="340" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="26oBZDTvgFsPIgkjkrH8-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vSTN6Diw2wIvGlX7Q6Qh-2" target="26oBZDTvgFsPIgkjkrH8-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="350" as="sourcePoint" />
-            <mxPoint x="350" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="26oBZDTvgFsPIgkjkrH8-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vSTN6Diw2wIvGlX7Q6Qh-2" target="26oBZDTvgFsPIgkjkrH8-4">
@@ -105,6 +87,9 @@
             <mxPoint x="130" y="350" as="sourcePoint" />
             <mxPoint x="420" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IcMbdLZvYoic3JaOnlQl-1" value="Wycisz czat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="250" width="131.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
