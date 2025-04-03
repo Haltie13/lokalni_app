@@ -7,7 +7,7 @@
         <mxCell id="vSTN6Diw2wIvGlX7Q6Qh-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="60" width="500" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="vSTN6Diw2wIvGlX7Q6Qh-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="vSTN6Diw2wIvGlX7Q6Qh-2" value="Użytkownik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="140" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rVkgeNe9eemyirqyG1fS-6" value="Zablokuj użytkownika" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
