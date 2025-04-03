@@ -112,6 +112,15 @@
         <mxCell id="IcMbdLZvYoic3JaOnlQl-8" value="Moderator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="430" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IcMbdLZvYoic3JaOnlQl-9" value="Usuń treści" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IcMbdLZvYoic3JaOnlQl-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;endArrow=none;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="IcMbdLZvYoic3JaOnlQl-9" target="IcMbdLZvYoic3JaOnlQl-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="630" as="sourcePoint" />
+            <mxPoint x="790" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
